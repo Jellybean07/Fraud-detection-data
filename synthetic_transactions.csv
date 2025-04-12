@@ -1,6 +1,6 @@
 # Synthetic Financial Fraud Dataset
 
-This repository contains a synthetic dataset that mimics real-world financial transactions, useful for testing fraud detection algorithms.
+This repository contains a synthetic dataset that mimics real-world financial transactions, useful for testing fraud detection 
 
 ## Features
 - `transaction_id`: Unique identifier for the transaction
