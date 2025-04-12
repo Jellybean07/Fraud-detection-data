@@ -11,7 +11,7 @@ fake = Faker()
 
 # Parameters
 num_records = 10000
-locations = ['New York', 'Los Angeles', 'Chicago', 'Houston', 'Miami', 'San Francisco', 'Seattle', 'Denver']
+locations = ['New York','Los Angeles','Chicago','Houston','Miami','San Francisco','Seattle','Denver']
 fraud_ratio = 0.03  # 3% fraud transactions
 
 # Ensure data directory exists
